@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DjangoCon US 2017 • August 13-18, 2017 • Spokane, WA United States
+title: PyCon Hyderabad 2018 • TBD, 2018 • Hyderabad, India
 permalink: /
 description: |
     Six days of talks, sprints, and tutorials by the community for the community.
