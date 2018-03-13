@@ -1,21 +1,29 @@
 .header {
   position: relative;
-  background: url(/static/img/top-trees.png);
-  background: url(/static/img/top-trees.svg), none;
-  background-position: top left;
+  background: url(/static/img/pycon-banner-4.jpg);
   background-repeat: no-repeat;
-  background-color: $green;
-  background-size: 100% auto;
-  padding: 140px 0 40px;
+  background-size: cover;
   text-align: center;
 
   h1 {
-    color: $light-blue;
+    font-family: Dancing Script;
+    font-size: 3rem;
+  }
+
+  h3 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: #D66315;
   }
 
   .row:first-child {
     // Specific to 2017. Adjust for different copy.
     max-width: 50em;
+    padding-bottom: 3em;
+  }
+
+  .row:nth-child(2) {
+    max-width: 50em;
+    padding-bottom: 3em;
   }
 
   .subhead {
@@ -48,8 +56,13 @@
     border-top: 1px solid $body-background;
   }
 
+  @include breakpoint(small) {
+    padding-top: 10vw;
+  }
+
   @include breakpoint(medium) {
-    padding-top: 35vw;
+    padding-top: 10vw;
+    padding-left: 45vw;
 
     .subhead {
       text-align: right;
@@ -70,20 +83,23 @@
     }
   }
 
+  @include breakpoint(small) {
+    min-height: 200px;
+  }
+
   @include breakpoint(smedium) {
-    padding-top: 25vw;
-    background-position: 0 -36px;
+    min-height: 400px;
   }
 
   @include breakpoint(medium) {
-    background-position: 0 -80px;
+    min-height: 500px;
   }
 
   @include breakpoint(large) {
-    background-position: 0 -100px;
+    min-height: 600px;
   }
 
   @include breakpoint(xxlarge) {
-    padding-bottom: 100px;
+    min-height: 650px;
   }
 }

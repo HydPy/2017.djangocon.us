@@ -15,8 +15,8 @@ We are looking for original and interesting talks that can benefit the diverse i
 
 Here are some examples of what has been accepted over the last couple of years:
 
-* [DjangoCon US 2016 Talks](https://2016.djangocon.us/schedule/general-sessions/)
-* [DjangoCon US 2015 Talks](https://2015.djangocon.us/schedule/general-sessions/)
+* [PyCon Hyderabad 2016 Talks](https://2016.djangocon.us/schedule/general-sessions/)
+* [PyCon Hyderabad 2015 Talks](https://2015.djangocon.us/schedule/general-sessions/)
 
 ##  Tutorials
 
@@ -25,7 +25,7 @@ Length: ~3 - 3.5 hours
 We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level, just be sure to indicate clearly what you expect your students to already know or have experience with{% comment %}in your proposal{% endcomment %}.
 {% endcomment %}
 
-{% comment %}Still unsure if you should submit? Not only will we cover your DjangoCon US ticket, but tutorials are compensated.{% endcomment %}
+{% comment %}Still unsure if you should submit? Not only will we cover your PyCon Hyderabad ticket, but tutorials are compensated.{% endcomment %}
 
 {% comment %}
 <div class="row">
@@ -43,13 +43,13 @@ We’re open to all kinds of ideas, especially ones we haven’t thought of! Tec
 
 Presenters, regardless of experience, sometimes want a little help. If you’d like any help in {% comment %}proposing, {% endcomment %}preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
 
-* [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer, Your Django Story leader.
+* [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, PyCon Hyderabad and Django Girls Atlanta organizer, Your Django Story leader.
 * [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.
-* [Anna Ossowski](mailto:ossanna16@gmx.de), PSF and DSF member, PyCon US and DjangoCon US organizer, PyLadies Remote group leader.
+* [Anna Ossowski](mailto:ossanna16@gmx.de), PSF and DSF member, PyCon US and PyCon Hyderabad organizer, PyLadies Remote group leader.
 * [Frank Wiles](mailto:frank@revsys.com), President of the Board, Django Software Foundation, Founder, RevSys.
 * [Jacob Kaplan-Moss](mailto:jacob@jacobian.org), Former Django BDFL and current Core Contributor. Employed at 18F, partner at RevSys. Jacob would love to work with non-native English speakers.
 * [Katie McLaughlin](mailto:katie@glasnt.com), PyCon AU and DjangoCon AU Organiser, PSF Contributing Member.
-* [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), DjangoCon US organizer, Code Newbie, author.
+* [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), PyCon Hyderabad organizer, Code Newbie, author.
 * [Dr Russell Keith-Magee](mailto:russell@keith-magee.com) is a 11 year veteran of the Django core team, and for 5 years, was President of the Django Software Foundation. He’s also the founder of the BeeWare project, developing GUI tools to support the development of Python software. When he’s not contributing to open source, he does freelance web development from his home in Perth, Western Australia.
 * [Sebastian Vetter](mailto:seb@roadsi.de), Vancouver Python Organizer, Senior Engineer @ Eventbase, Conference Enthusiast.
 

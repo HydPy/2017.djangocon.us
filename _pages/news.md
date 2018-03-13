@@ -2,6 +2,6 @@
 title: News
 permalink: /news/
 layout: post-list
-description: The latest DjangoCon US 2017 news.
+description: The latest PyCon Hyderabad 2017 news.
 heading: News
 ---

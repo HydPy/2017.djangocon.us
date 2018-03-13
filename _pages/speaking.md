@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Speaking at DjangoCon US
-heading: Speaking at DjangoCon US
+title: Speaking at PyCon Hyderabad
+heading: Speaking at PyCon Hyderabad
 permalink: /speaking/
-description: Information about submitting a proposal to speak at DjangoCon US
+description: Information about submitting a proposal to speak at PyCon Hyderabad
 ---
 
 {% comment %}
@@ -12,9 +12,9 @@ Our [Call for Proposals (CFP)](https://www.papercall.io/djangocon-us-2017) is no
 
 Need help with your talk?{% comment %}Need help with your proposal?{% endcomment %} We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page!
 
-## Why speak at DjangoCon US?
+## Why speak at PyCon Hyderabad?
 
-- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included{% comment %}, but speakers are encouraged to [apply for financial aid](/financial-aid/){% endcomment %}.)
+- Presenters receive a free ticket to PyCon Hyderabad! (Travel costs are not included{% comment %}, but speakers are encouraged to [apply for financial aid](/financial-aid/){% endcomment %}.)
 - Professionally produced video of your talk published to our YouTube channel. (You may opt out of this.)
 - Professional photographer on hand to photograph your talk. (Also optional.)
 - Expose the Django community to new tools, practices, or ideas.
@@ -35,7 +35,7 @@ Need help with your talk?{% comment %}Need help with your proposal?{% endcomment
 
 ## Selection process
 
-We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will all be reviewing anonymized submissions and collectively deciding which ones to accept. **Submissions for DjangoCon US 2017 are closed as of April 11, 2017 07:00 CDT.** We will notify those who have been accepted by **May 15, 2017**. We’ll publish the list of selected talks as soon as we can after the deadline.
+We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will all be reviewing anonymized submissions and collectively deciding which ones to accept. **Submissions for PyCon Hyderabad 2017 are closed as of April 11, 2017 07:00 CDT.** We will notify those who have been accepted by **May 15, 2017**. We’ll publish the list of selected talks as soon as we can after the deadline.
 
 ## Lightning Talks ⚡️
 

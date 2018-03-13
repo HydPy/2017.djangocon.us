@@ -6,11 +6,11 @@ permalink: /sponsors/information/
 description: Become a Sponsor
 ---
 
-## What Is DjangoCon US?
+## What Is PyCon Hyderabad?
 
-This August, more than 500 people from the Django community will descend upon Spokane for six days of tutorials, talks, and code sprints. There is no better place to recruit Django developers than at DjangoCon US!
+This August, more than 500 people from the Django community will descend upon Spokane for six days of tutorials, talks, and code sprints. There is no better place to recruit Django developers than at PyCon Hyderabad!
 
-Sponsoring DjangoCon US can help you:
+Sponsoring PyCon Hyderabad can help you:
 
 - Recruit amazing Django developers
 - Promote your product (hosting, Saas, developer tools) to hundreds of potential new customers

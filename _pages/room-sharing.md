@@ -24,7 +24,7 @@ If you're looking for or giving a ride, list yourself along with the dates you'r
 
 _When reserving your room, be sure to specify the type and number of beds! Some rooms only have a single king size bed; not ideal for platonic room sharing._
 
-**Caution:** Room and ride sharing arrangements are the responsibilities of the individual parties involved. DEFNA, DSF, and DjangoCon US Staff takes no responsibility, and cannot be involved in any disputes.
+**Caution:** Room and ride sharing arrangements are the responsibilities of the individual parties involved. DEFNA, DSF, and PyCon Hyderabad Staff takes no responsibility, and cannot be involved in any disputes.
 
 ## I Already Have a Room Reservation
 
