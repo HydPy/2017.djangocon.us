@@ -1,18 +1,13 @@
 .header {
   position: relative;
-  background: url(/static/img/pycon-banner-4.jpg);
+  background: url(/static/img/pycon-banner-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
 
   h1 {
-    font-family: Dancing Script;
     font-size: 3rem;
-  }
-
-  h3 {
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-    color: #D66315;
+    margin-bottom: 3rem;
   }
 
   .row:first-child {
@@ -61,7 +56,7 @@
   }
 
   @include breakpoint(medium) {
-    padding-top: 10vw;
+    padding-top: 12vw;
     padding-left: 45vw;
 
     .subhead {
