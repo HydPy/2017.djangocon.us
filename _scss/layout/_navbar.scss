@@ -39,6 +39,16 @@
 
 }
 
+.is-dropdown-submenu {
+   position:absolute;
+   top:0;
+   left:100%;
+   z-index:1;
+   display:none;
+   min-width:200px;
+   border:0;
+   background:linear-gradient(to bottom,rgba(12,75,51,0.85) 0,rgba(10,64,43,0.95) 100%)
+}
 
 .headroom--top .menu .navbar-button,
 .navbar-button {

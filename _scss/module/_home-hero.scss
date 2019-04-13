@@ -1,6 +1,6 @@
 .header {
   position: relative;
-  background: url(/static/img/pycon-banner-1.jpg);
+  background: url(static/img/pycon-banner-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -35,7 +35,7 @@
 
   .subheading {
     margin-bottom: $global-margin/2;
-    font-size: rem-calc(22);
+    font-size: rem-calc(35);
     font-weight: $global-weight-normal;
   }
 
@@ -95,6 +95,6 @@
   }
 
   @include breakpoint(xxlarge) {
-    min-height: 650px;
+    min-height: 900px;
   }
 }
