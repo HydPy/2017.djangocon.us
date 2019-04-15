@@ -150,9 +150,9 @@ description: |
   class="
     photo-hero
     tint-{{ page.hero_theme }}"
-  data-interchange="[{{ page.testimonial_img }}, medium]"
+  data-interchange="[{{site.baseurl}}{{ page.testimonial_img }}, medium]"
   >
-  <img class="hide-for-medium" src="{{ page.testimonial_img_mobile }}">
+  <img class="hide-for-medium" src="{{site.baseurl}}{{ page.testimonial_img_mobile }}">
     <div class="row hero-content">
       <div
         class="

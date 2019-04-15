@@ -16,13 +16,13 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="static/css/styles.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/static/css/styles.css">
 
     <!-- favicon
     ================================================== -->
-    <link href="static/icons/favicon.ico" rel=icon type="image/x-icon">
-    <link href="static/icons/favicon.png" rel=icon type="image/png">
-    <link href="static/icons/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+    <link href="{{site.baseurl}}/static/icons/favicon.ico" rel=icon type="image/x-icon">
+    <link href="{{site.baseurl}}/static/icons/favicon.png" rel=icon type="image/png">
+    <link href="{{site.baseurl}}/static/icons/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
   </head>
   <body class="{{ page.layout }}-page">
    {% include social-icons.html %}
@@ -49,10 +49,10 @@
     ================================================== -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/static/js/jquery.min.js"><\/script>')</script>
-    <script src="static/js/what-input.min.js"></script>
-    <script src="static/js/foundation.min.js"></script>
-    <script src="static/js/headroom.min.js"></script>
-    <script src="static/js/main.js"></script>
+    <script src="{{site.baseurl}}/static/js/what-input.min.js"></script>
+    <script src="{{site.baseurl}}/static/js/foundation.min.js"></script>
+    <script src="{{site.baseurl}}/static/js/headroom.min.js"></script>
+    <script src="{{site.baseurl}}/static/js/main.js"></script>
     {% include analytics.html %}
   </body>
 </html>

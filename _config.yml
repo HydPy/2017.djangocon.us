@@ -2,6 +2,7 @@ title: PyCon Hyderabad
 url: ""
 author : HydPy
 enforce_ssl: ""
+baseurl: "/PyConfHyd"
 relative_permalinks: false
 permalink: news/:title/  # permalink: date
 contact_us_email: "contact@hydpy.org"

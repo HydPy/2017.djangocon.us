@@ -1,5 +1,5 @@
 <div class="partner-footer section-pad theme-light-beige">
-  <h3 class="v-pad-bottom text-center">Our Sponsors</h3>
+  <h3 class="v-pad-bottom text-center">Previous Sponsors</h3>
 
   {% for level in site.data.sponsors.levels %}
     {% if level.sponsors %}
@@ -11,7 +11,7 @@
               <a href="{{ sponsor.url }}">
                 <img
                   class="partner-logo {{ sponsor.logo_orientation }}"
-                  src="{{ sponsor.logo }}"
+                  src="{{ sponsor.logo | prepend: site.baseurl }}"
                   alt="{{ sponsor.name }} Logo" />
               </a>
             </div>

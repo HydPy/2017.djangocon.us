@@ -8,6 +8,8 @@
 	http://cssguidelin.es/
 */
 
+$baseurl: "{{site.baseurl}}";
+
 @import 'foundation';
 @import 'settings';
 @import 'motion-ui';

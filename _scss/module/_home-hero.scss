@@ -1,6 +1,6 @@
 .header {
   position: relative;
-  background: url(static/img/pycon-banner-1.jpg);
+  background: url($baseurl + '/static/img/pycon-banner-1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;

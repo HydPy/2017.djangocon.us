@@ -1,9 +1,9 @@
 .subpage-header {
   position: relative;
 
-  background: url(/static/img/subpage-masthead.png),
+  background: url($baseurl + '/static/img/subpage-masthead.png'),
   linear-gradient($sky-blue 50%, $sky-blue 50%, $body-background 0);
-  background-image: url(/static/img/subpage-masthead.svg),
+  background-image: url($baseurl + '/static/img/subpage-masthead.svg'),
   linear-gradient($sky-blue 50%, $sky-blue 50%, $body-background 0);
   background-position: bottom left;
   background-repeat: no-repeat;

@@ -1,3 +1,5 @@
+---
+---
 @charset "UTF-8";@media print,screen and (min-width:40em){.reveal,.reveal.tiny,.reveal.small,.reveal.large{right:auto;left:auto;margin:0 auto}
 }/* normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}
 body{margin:0}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}
@@ -928,7 +930,7 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 }@media screen and (min-width:75em){.headroom--top .logo{width:360px}}.dropdown.menu>li.is-dropdown-submenu-parent>a{padding-right:1.1rem}
 @media screen and (max-width:55.62375em){.is-dropdown-submenu-parent{position:static}
 .menu>li>a{padding:.7rem}}.home-content{position:relative;z-index:2}.subpage-content{padding-bottom:100px;margin-top:-4%;position:relative;z-index:2}
-.subpage-content .section-pad:first-child{padding-top:0}.subpage-header{position:relative;background:url(/static/img/subpage-masthead.png),linear-gradient(#beeaf3 50%,#beeaf3 50%,#f1dfc7 0);background-image:url(/static/img/subpage-masthead.svg),linear-gradient(#beeaf3 50%,#beeaf3 50%,#f1dfc7 0);background-position:bottom left;background-repeat:no-repeat;background-size:100% auto;text-align:center;padding:100px 0 17%}
+.subpage-content .section-pad:first-child{padding-top:0}.subpage-header{position:relative;background:url("{{site.baseurl}}/static/img/subpage-masthead.png"),linear-gradient(#beeaf3 50%,#beeaf3 50%,#f1dfc7 0);background-image:url("{{site.baseurl}}/static/img/subpage-masthead.svg"),linear-gradient(#beeaf3 50%,#beeaf3 50%,#f1dfc7 0);background-position:bottom left;background-repeat:no-repeat;background-size:100% auto;text-align:center;padding:100px 0 17%}
 @media print,screen and (min-width:55.625em){.subpage-header{padding:160px 0 18%}
 }.subpage-header a{text-decoration:none}.footer{background:#d66315;padding-top:1px;padding-bottom:2rem}
 .footer p,.footer a,.footer small{color:#fefefe}.footer a,.footer svg,.footer path,.footer polygon,.footer rect,.footer g{transition:all 400ms ease}
@@ -950,7 +952,7 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 @media screen and (min-width:32.75em){.event-links{-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}
 .event-links .event-links-heading,.event-links .event-link{width:auto}}.faq-item{margin-bottom:3rem}
 .faq-item-question{font-size:1.44231rem}@media print,screen and (min-width:55.625em){.faq-item-question{font-size:1.82692rem}
-}.header{position:relative;background:url(static/img/pycon-banner-1.jpg);background-repeat:no-repeat;background-size:cover;text-align:center;padding-top:10vw;min-height:200px}
+}.header{position:relative;background:url("{{site.baseurl}}/static/img/pycon-banner-1.jpg");background-repeat:no-repeat;background-size:cover;text-align:center;padding-top:10vw;min-height:200px}
 .header h1{font-size:3rem;margin-bottom:3rem}.header .row:first-child{max-width:50em;padding-bottom:3em}
 .header .row:nth-child(2){max-width:50em;padding-bottom:3em}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
 .header .subhead strong{display:block;font-weight:500}.header .subheading{margin-bottom:.5rem;font-size:1.68269rem;font-weight:400}
