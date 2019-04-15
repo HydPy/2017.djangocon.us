@@ -22,40 +22,40 @@ levels:
 
   - name: Platinum Sponsors
     sponsors:
-      # - name: "Heroku"
-      #   logo: "/static/img/sponsors/herokulogo.png"
-      #   url: "https://www.heroku.com/"
-      #   url_friendly: "www.heroku.com"
-      #   description: |
-      #     Heroku, a Salesforce company and industry pioneer in platform
-      #     as a service (PaaS), enables developers to build and run
-      #     applications entirely in the cloud, without the need to
-      #     purchase or maintain any servers or software. Over 8
-      #     million apps, including ones from Product Hunt, Casper and
-      #     Citrix run on Heroku. With support for the most popular
-      #     languages such as Ruby and Node.js, high-scale data services
-      #     including Postgres, Redis and Kafka, and an add-ons
-      #     ecosystem featuring over 150 cloud application services, 
-      #     Heroku provides companies from startups to Fortune 500 
-      #     enterprises with a faster and more effective way to create, 
-      #     deploy and manage beautiful apps in the cloud. 
+      - name: "Pramati"
+        logo: "/static/img/sponsors/pramati.png"
+        url: "https://www.pramati.com/"
+        url_friendly: "www.pramati.com"
+        description: |
+          Heroku, a Salesforce company and industry pioneer in platform
+          as a service (PaaS), enables developers to build and run
+          applications entirely in the cloud, without the need to
+          purchase or maintain any servers or software. Over 8
+          million apps, including ones from Product Hunt, Casper and
+          Citrix run on Heroku. With support for the most popular
+          languages such as Ruby and Node.js, high-scale data services
+          including Postgres, Redis and Kafka, and an add-ons
+          ecosystem featuring over 150 cloud application services, 
+          Heroku provides companies from startups to Fortune 500 
+          enterprises with a faster and more effective way to create, 
+          deploy and manage beautiful apps in the cloud. 
 
 
   - name: Gold Sponsors
     sponsors:
-    # - name: "Revolution Systems"
-    #   logo: "/static/img/sponsors/revsys.png"
-    #   logo_orientation: portrait
-    #   url: "http://www.revsys.com/"
-    #   url_friendly: "revsys.com"
-    #   description: |
-    #     Revolution Systems primarily focuses on building and maintaining
-    #     customized web applications, offering world-class consulting and
-    #     technical support for a variety of Open Source technologies and
-    #     software systems. Specializing in performance and scalability,
-    #     their core expertise lies in Python, Django, PostgreSQL, systems
-    #     admin services and devops. (All this and they still find time to
-    #     be the world leader in Django support and training!)
+    - name: "Red Hat"
+      logo: "/static/img/sponsors/redhat_logo.png"
+      logo_orientation: portrait
+      url: "https://www.redhat.com/"
+      url_friendly: "www.redhat.com"
+      description: |
+        Revolution Systems primarily focuses on building and maintaining
+        customized web applications, offering world-class consulting and
+        technical support for a variety of Open Source technologies and
+        software systems. Specializing in performance and scalability,
+        their core expertise lies in Python, Django, PostgreSQL, systems
+        admin services and devops. (All this and they still find time to
+        be the world leader in Django support and training!)
 
     # - name: "Guidebook"
     #   logo: "/static/img/sponsors/Guidebook640.png"
@@ -121,22 +121,22 @@ levels:
   - name: Silver Sponsors
     sponsors:
 
-      # - name: "Tito"
-      #   logo: "/static/img/sponsors/titologo.svg"
-      #   logo_orientation: "landscape"
-      #   url: "https://ti.to/home"
-      #   url_friendly: "ti.to/home"
-      #   description: |
-      #     Hundreds of tiny details, carefully considered. We thought
-      #     carefully about how we would want the ticket purchasing
-      #     experience to be like for our own events. A clean,
-      #     mobile-friendly event homepage and checkout experience.
-      #     A simple, fast checkout that attendees love. Quick payments
-      #     using Stripe (say goodbye to waiting for your money). With
-      #     Tito, your data is your data, we never market to your
-      #     customers. So if you run events, come and take a look for
-      #     yourself. The last thing we want you to worry about is your
-      #     event software.
+      - name: "Pipal Academy"
+        logo: "/static/img/sponsors/pipal_academy_logo.png"
+        logo_orientation: "landscape"
+        url: "https://pipal.in/"
+        url_friendly: "pipal.in"
+        description: |
+          Hundreds of tiny details, carefully considered. We thought
+          carefully about how we would want the ticket purchasing
+          experience to be like for our own events. A clean,
+          mobile-friendly event homepage and checkout experience.
+          A simple, fast checkout that attendees love. Quick payments
+          using Stripe (say goodbye to waiting for your money). With
+          Tito, your data is your data, we never market to your
+          customers. So if you run events, come and take a look for
+          yourself. The last thing we want you to worry about is your
+          event software.
 
       # - name: "Rover.com"
       #   logo: "/static/img/sponsors/roverlogo.png"

@@ -950,7 +950,7 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 @media screen and (min-width:32.75em){.event-links{-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}
 .event-links .event-links-heading,.event-links .event-link{width:auto}}.faq-item{margin-bottom:3rem}
 .faq-item-question{font-size:1.44231rem}@media print,screen and (min-width:55.625em){.faq-item-question{font-size:1.82692rem}
-}.header{position:relative;background:url(/static/img/pycon-banner-1.jpg);background-repeat:no-repeat;background-size:cover;text-align:center;padding-top:10vw;min-height:200px}
+}.header{position:relative;background:url(static/img/pycon-banner-1.jpg);background-repeat:no-repeat;background-size:cover;text-align:center;padding-top:10vw;min-height:200px}
 .header h1{font-size:3rem;margin-bottom:3rem}.header .row:first-child{max-width:50em;padding-bottom:3em}
 .header .row:nth-child(2){max-width:50em;padding-bottom:3em}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
 .header .subhead strong{display:block;font-weight:500}.header .subheading{margin-bottom:.5rem;font-size:1.68269rem;font-weight:400}
@@ -964,7 +964,7 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 .photo-hero .hero-content{position:relative;z-index:2;background:#f1dfc7;padding-top:.48077rem}
 .photo-hero .hero-content .column>*:last-child,.photo-hero .hero-content .columns>*:last-child{margin-bottom:0}
 .photo-hero blockquote{font-size:1.53846rem;border:0;padding:0}.photo-hero cite{font-size:.96154rem}
-@media print,screen and (min-width:55.625em){.photo-hero{padding-top:16vh;padding-bottom:16vh}
+@media print,screen and (min-width:55.625em){.photo-hero{padding-top:26vh;padding-bottom:26vh}
 .photo-hero .hero-content{background:transparent;padding-top:0}}@media print,screen and (min-width:55.625em){.news{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-pack:center;justify-content:center}
 .news .news-title{display:-ms-flexbox;display:flex}}/* * Hamburgers * @description Tasty CSS-animated hamburgers * @author Jonathan Suh @jonsuh * @site https://jonsuh.com/hamburgers * @link https://github.com/jonsuh/hamburgers */.hamburger{padding:15px 15px;display:inline-block;cursor:pointer;transition-property:opacity,filter;transition-duration:.15s;transition-timing-function:linear;font:inherit;color:inherit;text-transform:none;background-color:transparent;border:0;margin:0;overflow:visible}
 .hamburger:hover{opacity:.7}.hamburger-box{width:30px;height:18px;display:inline-block;position:relative}
